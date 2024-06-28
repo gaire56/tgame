@@ -24,6 +24,6 @@ The template now uses folders for better organizion of the files. So, all the so
 <br>
 <br>
 <p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
+| 📺 <a href="https://www.youtube.com/@anantgaire8800">My YouTube Channel</a>
+| 🌍 <a href="http://anantgaire.com.np">My Website</a> | <br>
 </p>
