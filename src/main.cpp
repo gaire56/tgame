@@ -17,7 +17,7 @@ bool EventTriggered(double interval)
 int main()
 {
     Color darkBlue = {44, 44, 127, 255};
-    InitWindow(300, 600, "GAIRE ANANTA PRASAD M24W0272");
+    InitWindow(500, 620, "GAIRE ANANTA PRASAD M24W0272");
     SetTargetFPS(60); 
 
     Game game = Game();     
