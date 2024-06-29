@@ -1,5 +1,6 @@
 #include <raylib.h>
 #include "game.h"
+#include "colors.h"
 
 double lastUpdateTime = 0;
 
@@ -16,7 +17,7 @@ bool EventTriggered(double interval)
 
 int main()
 {
-    Color darkBlue = {44, 44, 127, 255};
+    
     InitWindow(500, 620, "GAIRE ANANTA PRASAD M24W0272");
     SetTargetFPS(60); 
 
@@ -34,6 +35,8 @@ int main()
         BeginDrawing();
         ClearBackground(darkBlue);
         DrawTextEx(font, "Score", {365, 15}, 38, 2, WHITE);
+        DrawTextEx(font, "Next", {370, 175}, 38, 2, WHITE);
+        DrawRectangleRounded({320, 55, 170, 60}, 0.3, 6, lightBlue);
         game.Draw();
         EndDrawing();
     }
