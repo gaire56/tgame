@@ -13,10 +13,6 @@ The template now uses folders for better organizion of the files. So, all the so
 
 # Video Tutorial
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
-
 <br>
 <br>
 <p align="center">
