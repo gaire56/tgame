@@ -1,8 +1,8 @@
-#pragma once
-#include <vector>
-#include <map>
-#include "position.h"
-#include "colors.h"
+#pragma once       // Ensures this header file is included only once during compilation
+#include <vector> // Include vector for std::vector usage
+#include <map>    // Include map for std::map usage
+#include "position.h" // Include user-defined Position class header
+#include "colors.h" // Include user-defined Colors header
 
 // Block class represents a Tetris-like block with various operations
 class Block
